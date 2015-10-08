@@ -29,5 +29,5 @@ This program is written as a part of the Artificial Intelligence Assignment.
 - Assignment : Write a pucks code that does anything
 - Language : Clojure
 
-Check the [user.clj](link) and the [puckseaworld.clj](link) file for the code and explaination.
+Check the [user.clj](https://github.com/nddave/Pucksea/blob/master/user.clj) and the [puckseaworld.clj](https://github.com/nddave/Pucksea/blob/master/puckseaworld.clj) file for the code and explaination.
 To execute the pucks files, please locate [Lee Spector's orginal pucks doccumentation](https://github.com/lspector/pucks), and replace the user.clj in 'src/pucks/agents/'; while also add the pucksea.clj to 'src/pucks/worlds/ai/'.
