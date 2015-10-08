@@ -16,6 +16,7 @@ When you edit pucks file to change the the way pucks behave than defined previou
 Using the maps of pucks defined by Lee Spector. I have edited the following files from the pucks repository:
 - user.clj
 - ai/world1.clj
+
 Editing these files has allowed me to change the way pucks behave with each other. Hence bringing out an artifially intelligent behavior from these pucks.
 
 Assignment information
