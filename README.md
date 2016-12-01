@@ -19,15 +19,11 @@ Using the maps of pucks defined by Lee Spector. I have edited the following file
 
 Editing these files has allowed me to change the way pucks behave with each other. Hence bringing out an artifially intelligent behavior from these pucks.
 
-Assignment information
-=======
-This program is written as a part of the Artificial Intelligence Assignment.
-
-- Program Name : Pucksea
-- Program Description : An AI pucks program that has a user puck which avoids zappers (loss of energy) and navigates towards vents (to gain energy). When faced with another fellow user puck, it moves away. Because they are too shy.
-- Subject : Artificial Intelligence
-- Assignment : Write a pucks code that does anything
-- Language : Clojure
-
 Check the [user.clj](https://github.com/nddave/Pucksea/blob/master/user.clj) and the [puckseaworld.clj](https://github.com/nddave/Pucksea/blob/master/puckseaworld.clj) file for the code and explaination.
 To execute the pucks files, please locate [Lee Spector's orginal pucks doccumentation](https://github.com/lspector/pucks), and replace the user.clj in 'src/pucks/agents/'; while also add the pucksea.clj to 'src/pucks/worlds/ai/'.
+
+# License information
+
+This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/). 
+
+Program is created by [Nirman Dave](http://www.nirmandave.com) as a form of assignment for *Artificial Intelligence CS263* course at *Hampshire College, Amherst MA* under *Professor Lee Spector*.
