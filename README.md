@@ -22,7 +22,7 @@ Editing these files has allowed me to change the way pucks behave with each othe
 Check the [user.clj](https://github.com/nddave/Pucksea/blob/master/user.clj) and the [puckseaworld.clj](https://github.com/nddave/Pucksea/blob/master/puckseaworld.clj) file for the code and explaination.
 To execute the pucks files, please locate [Lee Spector's orginal pucks doccumentation](https://github.com/lspector/pucks), and replace the user.clj in 'src/pucks/agents/'; while also add the pucksea.clj to 'src/pucks/worlds/ai/'.
 
-# License information
+# License information ![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)
 
 This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/). 
 
